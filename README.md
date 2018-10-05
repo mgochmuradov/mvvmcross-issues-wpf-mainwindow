@@ -1,0 +1,1 @@
+# mvvmcross-issues-wpf-mainwindow
